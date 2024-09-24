@@ -1,0 +1,2 @@
+# cloudfront-prewarm
+light prewarm
