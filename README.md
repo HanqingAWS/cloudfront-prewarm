@@ -40,3 +40,6 @@ python cloudfront_prewarm.py
 - 如需修改 cURL 命令的其他选项,请在 `download_file_with_curl` 函数中进行更改。
 
 通过使用 CloudFront Prewarm Tool,你可以更好地控制 CloudFront 边缘缓存状态,提高用户访问体验。如有任何问题或改进建议,欢迎提出issues或pull requests。
+
+## 备注
+第三方CloudFront pop点列表 https://www.feitsui.com/zh-hans/article/3
